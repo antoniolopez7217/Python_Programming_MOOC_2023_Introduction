@@ -36,3 +36,5 @@
 8. Loyalty bonus
 9. What to wear tomorrow
 10. Solving a quadratic equation
+
+*All subjects are included as comments within the file of each exercise.*

@@ -26,6 +26,5 @@
 6. [The next leap year]()
 7. [Story]()
 8. [Working with numbers]()
-9. [Quiz: Feedback, part 2]()
 
 *All subjects are included as comments within the file of each exercise.*

@@ -1,5 +1,5 @@
 # Python Programming MOOC 2023
-## Course contents
+## Introduction to Programming
 ### [Part 1](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part1)
 1. Getting started
 2. Information from the user

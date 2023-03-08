@@ -12,3 +12,9 @@
 2. More conditionals
 3. Combining conditions
 4. Simple loops
+
+### [Part 3]()
+1. Loops with conditions
+2. Working with strings
+3. More loops
+4. Defining functions

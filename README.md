@@ -13,7 +13,7 @@
 3. Combining conditions
 4. Simple loops
 
-### [Part 3]()
+### [Part 3](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part3)
 1. Loops with conditions
 2. Working with strings
 3. More loops

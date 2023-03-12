@@ -18,3 +18,11 @@
 2. Working with strings
 3. More loops
 4. Defining functions
+
+### [Part 4]()
+1. The Visual Studio Code editor, Python interpreter and built-in debugging tool
+2. More functions
+3. Lists
+4. Definite iteration
+5. Print statement formatting
+6. More strings and lists

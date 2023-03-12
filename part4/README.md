@@ -1,7 +1,7 @@
 # Part 4
 ## Programming exercises
 ### The Visual Studio Code editor, Python interpreter and built-in debugging tool
-1. [Hello Visual Studio Code]()
+1. [Hello Visual Studio Code](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part4/1.%20The%20Visual%20Studio%20Code%20editor%2C%20Python%20interpreter%20and%20built-in%20debugging%20tool/hello_visual_studio_code.py)
 ### More functions
 1. [Line]()
 2. [A box of hashes]()

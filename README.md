@@ -20,8 +20,8 @@
 4. [Defining functions]()
 
 ### [Part 4](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part4)
-1. [The Visual Studio Code editor, Python interpreter and built-in debugging tool]()
-2. [More functions]()
+1. [The Visual Studio Code editor, Python interpreter and built-in debugging tool](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part4/1.%20The%20Visual%20Studio%20Code%20editor%2C%20Python%20interpreter%20and%20built-in%20debugging%20tool)
+2. [More functions](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part4/2.%20More%20functions)
 3. [Lists]()
 4. [Definite iteration]()
 5. [Print statement formatting]()

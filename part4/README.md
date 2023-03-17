@@ -38,12 +38,11 @@
 ### Print statement formatting
 1. [Integers to strings](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part4/5.%20Print%20statement%20formatting/integers_to_strings.py)
 ### More strings and lists
-1. [Everything reversed]()
-2. [Most common character]()
-3. [No vowels allowed]()
-4. [No shouting allowed]()
-5. [Neighbours in a list]()
-6. [Grade statistics]()
-7. [Quiz: Feedback, part 4]()
+1. [Everything reversed](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part4/6.%20More%20strings%20and%20lists/everything_reversed.py)
+2. [Most common character](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part4/6.%20More%20strings%20and%20lists/most_common_character.py)
+3. [No vowels allowed](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part4/6.%20More%20strings%20and%20lists/no_vowels_allowed.py)
+4. [No shouting allowed](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part4/6.%20More%20strings%20and%20lists/no_shouting_allowed.py)
+5. [Neighbours in a list](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part4/6.%20More%20strings%20and%20lists/neighbours_in_list.py)
+6. [Grade statistics](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part4/6.%20More%20strings%20and%20lists/grade_statistics.py)
 
 *All subjects are included as comments within the file of each exercise.*

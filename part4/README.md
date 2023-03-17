@@ -36,7 +36,7 @@
 11. [The shortest in the list](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part4/4.%20Definite%20iteration/shortest_in_list.py)
 12. [All the longest in the list](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part4/4.%20Definite%20iteration/all_longest_in_list.py)
 ### Print statement formatting
-1. [Integers to strings]()
+1. [Integers to strings](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part4/5.%20Print%20statement%20formatting/integers_to_strings.py)
 ### More strings and lists
 1. [Everything reversed]()
 2. [Most common character]()

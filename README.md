@@ -24,5 +24,5 @@
 2. [More functions](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part4/2.%20More%20functions)
 3. [Lists](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part4/3.%20Lists)
 4. [Definite iteration](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part4/4.%20Definite%20iteration)
-5. [Print statement formatting]()
+5. [Print statement formatting](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part4/5.%20Print%20statement%20formatting)
 6. [More strings and lists]()

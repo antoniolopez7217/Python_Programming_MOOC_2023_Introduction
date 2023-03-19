@@ -27,7 +27,7 @@
 5. [Print statement formatting](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part4/5.%20Print%20statement%20formatting)
 6. [More strings and lists](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part4/6.%20More%20strings%20and%20lists)
 
-### [Part 5]()
+### [Part 5](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part5)
 1. [More lists]()
 2. [References]()
 3. [Dictionary]()

@@ -28,7 +28,7 @@
 6. [More strings and lists](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part4/6.%20More%20strings%20and%20lists)
 
 ### [Part 5](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part5)
-1. [More lists]()
+1. [More lists](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part5/1.%20More%20lists)
 2. [References]()
 3. [Dictionary]()
 4. [Tuple]()

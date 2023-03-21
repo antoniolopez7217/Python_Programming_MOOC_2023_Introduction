@@ -1,13 +1,13 @@
 # Part 5
 ## Programming exercises
 ### More lists
-1. The longest string
-2. Number of matching elements
-3. Go
-4. Sudoku: check row
-5. Sudoku: check column
-6. Sudoku: check block
-7. Sudoku: check grid
+1. [The longest string](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/1.%20More%20lists/longest_string.py)
+2. [Number of matching elements](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/1.%20More%20lists/number_of_elements.py)
+3. [Go](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/1.%20More%20lists/go.py)
+4. [Sudoku: check row](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/1.%20More%20lists/sudoku_row.py)
+5. [Sudoku: check column](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/1.%20More%20lists/sudoku_column.py)
+6. [Sudoku: check block](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/1.%20More%20lists/sudoku_block.py)
+7. [Sudoku: check grid](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/1.%20More%20lists/sudoku_grid.py)
 ### References
 1. Items multiplied by two
 2. Remove the smallest

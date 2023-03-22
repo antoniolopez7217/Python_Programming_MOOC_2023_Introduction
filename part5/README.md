@@ -9,12 +9,12 @@
 6. [Sudoku: check block](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/1.%20More%20lists/sudoku_block.py)
 7. [Sudoku: check grid](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/1.%20More%20lists/sudoku_grid.py)
 ### References
-1. Items multiplied by two
-2. Remove the smallest
-3. Sudoku: print out the grid and add a number
-4. Sudoku: add number to a copy of the grid
-5. Tic-Tac-Toe
-6. Transpose a matrix
+1. [Items multiplied by two](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/2.%20References/items_multiplied_by_two.py)
+2. [Remove the smallest](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/2.%20References/remove_smallest.py)
+3. [Sudoku: print out the grid and add a number](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/2.%20References/sudoku_print_and_add.py)
+4. [Sudoku: add number to a copy of the grid](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/2.%20References/sudoku_add_to_copy.py)
+5. [Tic-Tac-Toe](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/2.%20References/tic_tac_toe.py)
+6. [Transpose a matrix](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/2.%20References/transpose_matrix.py)
 ### Dictionary
 1. Times ten
 2. Factorials

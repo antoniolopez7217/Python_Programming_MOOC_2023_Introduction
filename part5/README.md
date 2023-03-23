@@ -16,15 +16,15 @@
 5. [Tic-Tac-Toe](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/2.%20References/tic_tac_toe.py)
 6. [Transpose a matrix](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/2.%20References/transpose_matrix.py)
 ### Dictionary
-1. Times ten
-2. Factorials
-3. Histogram
-4. Phone book, version 1
-5. Phone book, version 2
-6. Invert a dictionary
-7. Numbers spelled out
-8. Movie database
-9. Find movies
+1. [Times ten](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/3.%20Dictionary/times_ten.py)
+2. [Factorials](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/3.%20Dictionary/factorials.py)
+3. [Histogram](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/3.%20Dictionary/histogram.py)
+4. [Phone book, version 1](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/3.%20Dictionary/phone_book_v1.py)
+5. [Phone book, version 2](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/3.%20Dictionary/phone_book_v2.py)
+6. [Invert a dictionary](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/3.%20Dictionary/invert_dictionary.py)
+7. [Numbers spelled out](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/3.%20Dictionary/numbers_spelled_out.py)
+8. [Movie database](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/3.%20Dictionary/movie_database.py)
+9. [Find movies](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/3.%20Dictionary/find_movies.py)
 ### Tuple
 1. Create a tuple
 2. The oldest person

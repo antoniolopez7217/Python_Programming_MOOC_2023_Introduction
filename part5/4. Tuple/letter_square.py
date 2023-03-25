@@ -34,7 +34,7 @@ while next_char >= 1:
     left = left + alphabet[next_char]
     right = alphabet[next_char] + right
     chars_between -= 2
-    print(left+alphabet[next_char] * chars_between + right)
+    print(left + alphabet[next_char] * chars_between + right)
     next_char -= 1
 while next_char <= layers - 1:
     print(left + alphabet[next_char] * chars_between + right)

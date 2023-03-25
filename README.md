@@ -32,3 +32,8 @@
 2. [References](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part5/2.%20References)
 3. [Dictionary](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part5/3.%20Dictionary)
 4. [Tuple](https://github.com/antoniolopez7217/Python_Programming_MOOC/tree/main/part5/4.%20Tuple)
+
+### Part 6
+1. Reading files
+2. Writing files
+3. Handling errors

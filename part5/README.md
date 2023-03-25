@@ -26,10 +26,10 @@
 8. [Movie database](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/3.%20Dictionary/movie_database.py)
 9. [Find movies](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/3.%20Dictionary/find_movies.py)
 ### Tuple
-1. [Create a tuple]()
-2. [The oldest person]()
-3. [Older people]()
-4. [Student database]()
-5. [A square of letters]()
+1. [Create a tuple](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/4.%20Tuple/create_tuple.py)
+2. [The oldest person](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/4.%20Tuple/oldest_person.py)
+3. [Older people](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/4.%20Tuple/older_people.py)
+4. [Student database](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/4.%20Tuple/student_database.py)
+5. [A square of letters](https://github.com/antoniolopez7217/Python_Programming_MOOC/blob/main/part5/4.%20Tuple/letter_square.py)
 
 *All subjects are included as comments within the file of each exercise.*

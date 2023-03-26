@@ -22,3 +22,5 @@
 1. Reading input
 2. Parameter validation
 3. Incorrect lottery numbers
+
+*All subjects are included as comments within the file of each exercise.*

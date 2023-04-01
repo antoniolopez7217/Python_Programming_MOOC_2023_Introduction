@@ -34,6 +34,6 @@
 4. [Tuple](https://github.com/antoniolopez7217/Python_Programming_MOOC_2023_Introduction/tree/main/part5/4.%20Tuple)
 
 ### [Part 6](https://github.com/antoniolopez7217/Python_Programming_MOOC_2023_Introduction/tree/main/part6)
-1. Reading files
+1. [Reading files](https://github.com/antoniolopez7217/Python_Programming_MOOC_2023_Introduction/tree/main/part6/1.%20Reading%20files)
 2. Writing files
 3. Handling errors

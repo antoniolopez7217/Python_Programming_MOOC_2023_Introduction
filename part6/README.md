@@ -8,8 +8,8 @@
 5. [Course grading, part 2](https://github.com/antoniolopez7217/Python_Programming_MOOC_2023_Introduction/tree/main/part6/1.%20Reading%20files/course_grading_part2)
 6. [Course grading, part 3](https://github.com/antoniolopez7217/Python_Programming_MOOC_2023_Introduction/tree/main/part6/1.%20Reading%20files/course_grading_part3)
 7. [Spell checker](https://github.com/antoniolopez7217/Python_Programming_MOOC_2023_Introduction/tree/main/part6/1.%20Reading%20files/spellchecker)
-8. Recipe search
-9. City bikes
+8. [Recipe search](https://github.com/antoniolopez7217/Python_Programming_MOOC_2023_Introduction/tree/main/part6/1.%20Reading%20files/recipe_search)
+9. [City bikes](https://github.com/antoniolopez7217/Python_Programming_MOOC_2023_Introduction/tree/main/part6/1.%20Reading%20files/city_bikes)
 ### Writing files
 1. Inscription
 2. Diary

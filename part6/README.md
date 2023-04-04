@@ -11,10 +11,10 @@
 8. [Recipe search](https://github.com/antoniolopez7217/Python_Programming_MOOC_2023_Introduction/tree/main/part6/1.%20Reading%20files/recipe_search)
 9. [City bikes](https://github.com/antoniolopez7217/Python_Programming_MOOC_2023_Introduction/tree/main/part6/1.%20Reading%20files/city_bikes)
 ### Writing files
-1. Inscription
-2. Diary
-3. Filtering the contents of a file
-4. Store personal data
+1. [Inscription](https://github.com/antoniolopez7217/Python_Programming_MOOC_2023_Introduction/tree/main/part6/2.%20Writing%20files/inscription)
+2. [Diary](https://github.com/antoniolopez7217/Python_Programming_MOOC_2023_Introduction/tree/main/part6/2.%20Writing%20files/diary)
+3. [Filtering the contents of a file](https://github.com/antoniolopez7217/Python_Programming_MOOC_2023_Introduction/tree/main/part6/2.%20Writing%20files/filtering_file_contents)
+4. [Store personal data](https://github.com/antoniolopez7217/Python_Programming_MOOC_2023_Introduction/tree/main/part6/2.%20Writing%20files/store_personal_data)
 5. Course grading, part 4
 6. Word search
 7. Dictionary stored in a file
